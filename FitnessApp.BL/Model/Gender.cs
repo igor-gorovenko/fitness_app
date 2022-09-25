@@ -1,10 +1,13 @@
 ﻿using System;
+using FitnessApp.BL.Model;
+
 namespace FitnessApp.BL.Model
 {
     /// <summary>
     /// Gender
     /// </summary>
-    
+
+    [Serializable]
     public class Gender
     {
         /// <summary>

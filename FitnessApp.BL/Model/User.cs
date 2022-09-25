@@ -5,6 +5,8 @@ namespace FitnessApp.BL.Model
     /// <summary>
     /// User
     /// </summary>
+
+    [Serializable]
     public class User
     {
         #region Свойства
